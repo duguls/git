@@ -1,4 +1,4 @@
-Bienvenido : Prueba **Git**
+Bienvenido : Prueba **Git** :
 
 1.Proyecto 1
 1.Proyecto 2
